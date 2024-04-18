@@ -1,0 +1,6 @@
+
+SharePoint (Prepping)  https://learn.microsoft.com/en-us/microsoft-identity-manager/prepare-server-sharepoint
+MIM Service Dynamic Logging  https://learn.microsoft.com/en-us/microsoft-identity-manager/infrastructure/mim-service-dynamic-logging
+MIM Service Partitions  https://social.technet.microsoft.com/wiki/contents/articles/2363.understanding-fim-service-partitions.aspx
+
+https://learn.microsoft.com/en-us/powershell/module/sharepoint-server/new-spwebapplication?view=sharepoint-server-ps
