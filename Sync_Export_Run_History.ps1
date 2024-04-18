@@ -2,6 +2,7 @@
 # Written By: Dave Hodge, MCS
 # Date: 4/2/2020
 # Purpose: Export run history times from synchronization history
+# Requirements: Expects single step run profiles...
 #############################################################################################
 
 param(
