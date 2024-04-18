@@ -1,4 +1,6 @@
 
+MIM Sync Connectors Domino             - https://learn.microsoft.com/en-us/microsoft-identity-manager/reference/microsoft-identity-manager-2016-connector-domino
+
 MIM Sync Replicating Directory Changes - https://social.technet.microsoft.com/wiki/contents/articles/16874.fim-reference-how-to-set-more-granular-permissions-than-replicating-directory-changes-on-a-source-ad-read-by-the-adma.aspx
 SharePoint (Prepping)                  - https://learn.microsoft.com/en-us/microsoft-identity-manager/prepare-server-sharepoint
 MIM Service Dynamic Logging            - https://learn.microsoft.com/en-us/microsoft-identity-manager/infrastructure/mim-service-dynamic-logging
