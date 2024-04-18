@@ -1,4 +1,7 @@
+Visual C++ Redistributable              - https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
+Visual C++ Redistributable              - https://support.microsoft.com/en-us/topic/update-for-visual-c-2013-redistributable-package-d8ccd6a5-4e26-c290-517b-8da6cfdf4f10
 
+    
 MIM Sync Connectors Domino             - https://learn.microsoft.com/en-us/microsoft-identity-manager/reference/microsoft-identity-manager-2016-connector-domino
 
 MIM Sync Replicating Directory Changes - https://social.technet.microsoft.com/wiki/contents/articles/16874.fim-reference-how-to-set-more-granular-permissions-than-replicating-directory-changes-on-a-source-ad-read-by-the-adma.aspx
