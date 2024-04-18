@@ -5,6 +5,14 @@ MIM Sync Replicating Directory Changes - https://social.technet.microsoft.com/wi
 SharePoint (Prepping)                  - https://learn.microsoft.com/en-us/microsoft-identity-manager/prepare-server-sharepoint
 MIM Service Dynamic Logging            - https://learn.microsoft.com/en-us/microsoft-identity-manager/infrastructure/mim-service-dynamic-logging
 MIM Service Partitions                 - https://social.technet.microsoft.com/wiki/contents/articles/2363.understanding-fim-service-partitions.aspx
+MIM Service Well Known GUIDs           - https://social.technet.microsoft.com/wiki/contents/articles/22439.fim-2010-r2-well-known-guids.aspx
+
+                                          Name	GUID
+                                          Installer Account / Default Admin   7fb2b853-24f0-4498-9534-4e10589723c4
+                                          Built-in Synchronization Account    fb89aefa-5ea1-47f1-8890-abe7797d6497
+                                          FIM Service Account	                e05d1f1b-3d5e-4014-baa6-94dee7d68c89
+                                          Anonymous	                          b0b36673-d43b-4cfa-a7a2-aff14fd90522
+
 
 https://learn.microsoft.com/en-us/powershell/module/sharepoint-server/new-spwebapplication?view=sharepoint-server-ps
 SharePoint (Prepping)                  - https://learn.microsoft.com/en-us/sharepoint/install/install-prerequisites-from-network-share#download-and-combine-the-sharepoint-server-prerequisites-on-a-file-share
