@@ -3,8 +3,6 @@
 # Purpose: 
 #####################################################################################
 
-
-
 #######################################
 # Variables
 #######################################
@@ -12,7 +10,6 @@ $Backup_Location = "C:\Code"
 $FIMSYNC_InstallDir = "C:\Program Files\Microsoft Forefront Identity Manager\2010"
 
 $MIM_Environment = "Source"
-
 $Domain = "CONTOSO"
 $SVC_FIMSYNC = "SVC_MIMSYNC"
 $PWD = ""
